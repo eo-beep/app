@@ -1,0 +1,11 @@
+Privacy Policy for Universal Unit Calculator
+
+Last updated: July 2026
+
+This Privacy Policy governs the use of the app "Universal Unit Calculator" created by Overbakk 
+
+1. Data Collection and UsageThe app does not collect, store, or share any personal data, user location, device information, or analytical data. All currency data fetches are processed anonymously
+
+2. Third-Party ServicesThe app connects to the Frankfurter API anonymously to fetch current exchange rates. No personal information is transmitted during this process
+
+3. Contact InformationIf you have any questions regarding privacy while using the application, please contact us via email at: app@hovinveien.no
