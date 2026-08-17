@@ -2,7 +2,7 @@ Privacy Policy for Block Puzzle
 
 Last updated: July 2026
 
-This Privacy Policy governs the use of the app "lock Puzzle" created by Overbakk 
+This Privacy Policy governs the use of the app "Block Puzzle" created by Overbakk 
 
 1. Data Collection and Usage: The app does not collect, store, or share any personal data, user location, device information, or analytical data. All currency data fetches are processed anonymously
 
